@@ -1,6 +1,6 @@
-# sv
+# Lodestones
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+A basic attempt at Sveltekit app using OpenLayers library for OpenStreetMaps tiling, with customized colour scheme, powered by [`sv`](https://github.com/sveltejs/cli).
 
 ## Creating a project
 
